@@ -8,3 +8,9 @@ input {
     padding: 8px;
     width: 200px;
 }
+
+body {
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to bottom, #4facfe, #00f2fe);
+  }
